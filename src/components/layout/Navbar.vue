@@ -3,7 +3,7 @@
 		<input type="checkbox" id="toggler" role="button" class="toggler" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" />
 		<div class="navbar-brand">
 			<router-link to="/" class="navbar-item">
-				<img id="brand" src="/brand.png" alt="ReIMAGINE Tools" width="123" height="28">
+				<img id="brand" src="/brand.png" alt="IMAGINETools" width="123" height="28">
 			</router-link>
 
 			<label for="toggler" class="navbar-burger burger" >
@@ -25,7 +25,7 @@
 
 			<div class="navbar-end">
 				<router-link to="/character" class="navbar-item"><o-icon pack="mdi" class="icon has-text-danger" icon="card-account-details"/><span>Character Builder</span></router-link>
-				<a href="https://wiki.reimagine.online/Main_Page" class="navbar-item"><o-icon pack="mdi" class="icon" icon="wikipedia"/><span>ReIMAGINE Wiki</span></a>
+				<a href="https://wiki.smtimagine.com/Main_Page" class="navbar-item"><o-icon pack="mdi" class="icon" icon="wikipedia"/><span>Shin Megami Tensei IMAGINE Wiki</span></a>
 			</div>
 		</div>
 	</nav>
