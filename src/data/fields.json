@@ -3,8 +3,8 @@
 		"name" : "Suginami",
 		"demons": [
 			{
-				"name" : "Gaki",
-				"link" : "https://wiki.reimagine.online/Gaki",
+				"name" : "Preta",
+				"link" : "https://wiki.smtimagine.com/Preta",
 				"startHour": 21,
 				"endHour" : 6,
 				"phases": [],
@@ -12,7 +12,7 @@
 			},
 			{
 				"name" : "Alp",
-				"link" : "https://wiki.reimagine.online/Alp",
+				"link" : "https://wiki.smtimagine.com/Alp",
 				"startHour": 21,
 				"endHour" : 6,
 				"phases": [],
@@ -20,7 +20,7 @@
 			},
 			{
 				"name" : "Onmoraki",
-				"link" : "https://wiki.reimagine.online/Onmoraki",
+				"link" : "https://wiki.smtimagine.com/Onmoraki",
 				"startHour": 21,
 				"endHour" : 6,
 				"phases": [],
@@ -28,7 +28,7 @@
 			},
 			{
 				"name" : "Poltergeist",
-				"link" : "https://wiki.reimagine.online/Poltergeist",
+				"link" : "https://wiki.smtimagine.com/Poltergeist",
 				"startHour": 21,
 				"endHour" : 6,
 				"phases": [],
@@ -36,7 +36,7 @@
 			},
 			{
 				"name" : "Demonic Aria Sarasvati",
-				"link" : "https://wiki.reimagine.online/Demonic_Aria_Sarasvati",
+				"link" : "https://wiki.smtimagine.com/Demonic_Aria_Sarasvati",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [6,10],
@@ -48,16 +48,16 @@
 		"name":"Nakano",
 		"demons": [
 			{
-				"name" : "Pyro Jack",
-				"link" : "https://wiki.reimagine.online/Pyro_Jack",
+				"name" : "Jack O'Lantern",
+				"link" : "https://wiki.smtimagine.com/Jack_O%27Lantern",
 				"startHour": 17,
 				"endHour" : 5,
 				"phases": [],
 				"days": []
 			},
 			{
-				"name" : "Inexperienced Pyro Jack",
-				"link" : "https://wiki.reimagine.online/Inexperienced_Pyro_Jack",
+				"name" : "Inexperienced Jack O'Lantern",
+				"link" : "https://wiki.smtimagine.com/Inexperienced_Jack_O%27Lantern",
 				"startHour": 17,
 				"endHour" : 5,
 				"phases": [],
@@ -65,7 +65,7 @@
 			},
 			{
 				"name" : "Balance-Threatening Phantom",
-				"link" : "https://wiki.reimagine.online/Balance-Threatening Phantom",
+				"link" : "https://wiki.smtimagine.com/Balance-Threatening_Phantom",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [15],
@@ -78,7 +78,7 @@
 		"demons": [
 			{
 				"name" : "Apsaras",
-				"link" : "https://wiki.reimagine.online/Apsaras",
+				"link" : "https://wiki.smtimagine.com/Apsaras",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -86,7 +86,7 @@
 			},
 			{
 				"name" : "Dwarf",
-				"link" : "https://wiki.reimagine.online/Dwarf",
+				"link" : "https://wiki.smtimagine.com/Dwarf",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -94,7 +94,7 @@
 			},	
 			{
 				"name" : "Phoenix",
-				"link" : "https://wiki.reimagine.online/Phoenix",
+				"link" : "https://wiki.smtimagine.com/Phoenix",
 				"startHour": 10,
 				"endHour" : 14,
 				"phases": [],
@@ -102,7 +102,7 @@
 			},	
 			{
 				"name" : "Raja Naga",
-				"link" : "https://wiki.reimagine.online/Raja_Naga",
+				"link" : "https://wiki.smtimagine.com/Raja_Naga",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -110,7 +110,7 @@
 			},	
 			{
 				"name" : "Inviolable Servant Angel",
-				"link" : "https://wiki.reimagine.online/Inviolable_Servant_Angel",
+				"link" : "https://wiki.smtimagine.com/Inviolable_Servant_Angel",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [0],
@@ -118,7 +118,7 @@
 			},
 			{
 				"name" : "Inviolable Servant Archangel",
-				"link" : "https://wiki.reimagine.online/Inviolable_Servant_Archangel",
+				"link" : "https://wiki.smtimagine.com/Inviolable_Servant_Archangel",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [0],
@@ -126,7 +126,7 @@
 			},
 			{
 				"name" : "Inviolable Servant Principality",
-				"link" : "https://wiki.reimagine.online/Inviolable_Servant_Principality",
+				"link" : "https://wiki.smtimagine.com/Inviolable_Servant_Principality",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [0],
@@ -134,7 +134,7 @@
 			},
 			{
 				"name" : "Inviolable Servant Virtue",
-				"link" : "https://wiki.reimagine.online/Inviolable_Servant_Virtue",
+				"link" : "https://wiki.smtimagine.com/Inviolable_Servant_Virtue",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [0],
@@ -142,7 +142,7 @@
 			},
 			{
 				"name" : "Invading Blob",
-				"link" : "https://wiki.reimagine.online/Invading_Blob",
+				"link" : "https://wiki.smtimagine.com/Invading_Blob",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -150,7 +150,7 @@
 			},
 			{
 				"name" : "Invading Gorgon",
-				"link" : "https://wiki.reimagine.online/Invading_Gorgon",
+				"link" : "https://wiki.smtimagine.com/Invading_Gorgon",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -158,7 +158,7 @@
 			},
 			{
 				"name" : "Invading Oni",
-				"link" : "https://wiki.reimagine.online/Invading_Oni",
+				"link" : "https://wiki.smtimagine.com/Invading_Oni",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -166,7 +166,7 @@
 			},
 			{
 				"name" : "Invading Taraka",
-				"link" : "https://wiki.reimagine.online/Invading_Taraka",
+				"link" : "https://wiki.smtimagine.com/Invading_Taraka",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -174,7 +174,7 @@
 			},
 			{
 				"name" : "Invading Dakini",
-				"link" : "https://wiki.reimagine.online/Invading_Dakini",
+				"link" : "https://wiki.smtimagine.com/Invading_Dakini",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -182,7 +182,7 @@
 			},
 			{
 				"name" : "Invading Nidhoggr",
-				"link" : "https://wiki.reimagine.online/Invading_Nidhoggr",
+				"link" : "https://wiki.smtimagine.com/Invading_Nidhoggr",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -190,7 +190,7 @@
 			},
 			{
 				"name" : "Invading Pisaca",
-				"link" : "https://wiki.reimagine.online/Invading_Pisaca",
+				"link" : "https://wiki.smtimagine.com/Invading_Pisaca",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -198,7 +198,7 @@
 			},
 			{
 				"name" : "Invading Legion",
-				"link" : "https://wiki.reimagine.online/Invading_Legion",
+				"link" : "https://wiki.smtimagine.com/Invading_Legion",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -206,7 +206,7 @@
 			},
 			{
 				"name" : "Invading Tarasque",
-				"link" : "https://wiki.reimagine.online/Invading_Tarasque",
+				"link" : "https://wiki.smtimagine.com/Invading_Tarasque",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -214,7 +214,7 @@
 			},
 			{
 				"name" : "Invading Karasu-Tengu",
-				"link" : "https://wiki.reimagine.online/Invading_Karasu-Tengu",
+				"link" : "https://wiki.smtimagine.com/Invading_Karasu-Tengu",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -227,7 +227,7 @@
 		"demons": [
 			{
 				"name" : "Choronzon",
-				"link" : "https://wiki.reimagine.online/Choronzon",
+				"link" : "https://wiki.smtimagine.com/Choronzon",
 				"startHour": 18,
 				"endHour" : 5,
 				"phases": [],
@@ -235,7 +235,7 @@
 			},
 			{
 				"name" : "Incubus",
-				"link" : "https://wiki.reimagine.online/Incubus",
+				"link" : "https://wiki.smtimagine.com/Incubus",
 				"startHour": 18,
 				"endHour" : 5,
 				"phases": [],
@@ -248,7 +248,7 @@
 		"demons": [
 			{
 				"name" : "Slime",
-				"link" : "https://wiki.reimagine.online/Slime",
+				"link" : "https://wiki.smtimagine.com/Slime",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -256,7 +256,7 @@
 			},
 			{
 				"name" : "Datsue-Ba",
-				"link" : "https://wiki.reimagine.online/Datsue-Ba",
+				"link" : "https://wiki.smtimagine.com/Datsue-Ba",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -264,7 +264,7 @@
 			},
 			{
 				"name" : "Blob",
-				"link" : "https://wiki.reimagine.online/Blob",
+				"link" : "https://wiki.smtimagine.com/Blob",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -272,7 +272,7 @@
 			},
 			{
 				"name" : "Oni",
-				"link" : "https://wiki.reimagine.online/Oni",
+				"link" : "https://wiki.smtimagine.com/Oni",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -280,7 +280,7 @@
 			},
 			{
 				"name" : "Taraka",
-				"link" : "https://wiki.reimagine.online/Taraka",
+				"link" : "https://wiki.smtimagine.com/Taraka",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -288,7 +288,7 @@
 			},
 			{
 				"name" : "Karasu-Tengu",
-				"link" : "https://wiki.reimagine.online/Karasu-Tengu",
+				"link" : "https://wiki.smtimagine.com/Karasu-Tengu",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -296,7 +296,7 @@
 			},
 			{
 				"name" : "Black Ooze",
-				"link" : "https://wiki.reimagine.online/Black_Ooze",
+				"link" : "https://wiki.smtimagine.com/Black_Ooze",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -304,7 +304,7 @@
 			},
 			{
 				"name" : "Yomotsu-Shikome",
-				"link" : "https://wiki.reimagine.online/Yomotsu-Shikome",
+				"link" : "https://wiki.smtimagine.com/Yomotsu-Shikome",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -312,7 +312,7 @@
 			},
 			{
 				"name" : "Madness-Stricken Chatterskull",
-				"link" : "https://wiki.reimagine.online/Madness-Stricken_Chatterskull",
+				"link" : "https://wiki.smtimagine.com/Madness-Stricken_Chatterskull",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -320,7 +320,7 @@
 			},
 			{
 				"name" : "Madness-Stricken Pisaca",
-				"link" : "https://wiki.reimagine.online/Madness-Stricken_Pisaca",
+				"link" : "https://wiki.smtimagine.com/Madness-Stricken_Pisaca",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -328,7 +328,7 @@
 			},
 			{
 				"name" : "Mou-Ryou",
-				"link" : "https://wiki.reimagine.online/Mou-Ryou",
+				"link" : "https://wiki.smtimagine.com/Mou-Ryou",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -336,7 +336,7 @@
 			},
 			{
 				"name" : "Specter",
-				"link" : "https://wiki.reimagine.online/Specter",
+				"link" : "https://wiki.smtimagine.com/Specter",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -344,7 +344,7 @@
 			},
 			{
 				"name" : "Shadow",
-				"link" : "https://wiki.reimagine.online/Shadow",
+				"link" : "https://wiki.smtimagine.com/Shadow",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -352,7 +352,7 @@
 			},
 			{
 				"name" : "Nidhoggr",
-				"link" : "https://wiki.reimagine.online/Nidhoggr",
+				"link" : "https://wiki.smtimagine.com/Nidhoggr",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -360,7 +360,7 @@
 			},
 			{
 				"name" : "Inexperienced Taraka",
-				"link" : "https://wiki.reimagine.online/Inexperienced_Taraka",
+				"link" : "https://wiki.smtimagine.com/Inexperienced_Taraka",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -368,7 +368,7 @@
 			},
 			{
 				"name" : "Inhabitant of the Night Oni",
-				"link" : "https://wiki.reimagine.online/Inhabitant_of_the_Night_Oni",
+				"link" : "https://wiki.smtimagine.com/Inhabitant_of_the_Night_Oni",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -376,7 +376,7 @@
 			},
 			{
 				"name" : "Inhabitant of the Night Karasu-Tengu",
-				"link" : "https://wiki.reimagine.online/Inhabitant_of_the_Night_Karsu-Tengu",
+				"link" : "https://wiki.smtimagine.com/Inhabitant_of_the_Night_Karsu-Tengu",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -384,7 +384,7 @@
 			},
 			{
 				"name" : "Inhabitant of the Night Datsue-Ba",
-				"link" : "https://wiki.reimagine.online/Inhabitant_of_the_Night_Datsue-Ba",
+				"link" : "https://wiki.smtimagine.com/Inhabitant_of_the_Night_Datsue-Ba",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -392,7 +392,7 @@
 			},
 			{
 				"name" : "Inhabitant of the Night Taraka",
-				"link" : "https://wiki.reimagine.online/Inhabitant_of_the_Night_Taraka",
+				"link" : "https://wiki.smtimagine.com/Inhabitant_of_the_Night_Taraka",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -400,7 +400,7 @@
 			},
 			{
 				"name" : "Inhabitant of the Night Yomotsu-Shikome",
-				"link" : "https://wiki.reimagine.online/Inhabitant_of_the_Night_Yomotsu-Shikome",
+				"link" : "https://wiki.smtimagine.com/Inhabitant_of_the_Night_Yomotsu-Shikome",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -408,7 +408,7 @@
 			},
 			{
 				"name" : "Madness-Stricken Legion",
-				"link" : "https://wiki.reimagine.online/Madness-Stricken_Legion",
+				"link" : "https://wiki.smtimagine.com/Madness-Stricken_Legion",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -416,7 +416,7 @@
 			},
 			{
 				"name" : "Madness-Driven Chatterskull",
-				"link" : "https://wiki.reimagine.online/Madness-Driven_Chatterskull",
+				"link" : "https://wiki.smtimagine.com/Madness-Driven_Chatterskull",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -424,7 +424,7 @@
 			},
 			{
 				"name" : "Madness-Driven Chatterskull",
-				"link" : "https://wiki.reimagine.online/Madness-Driven_Chatterskull",
+				"link" : "https://wiki.smtimagine.com/Madness-Driven_Chatterskull",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -437,7 +437,7 @@
 		"demons": [
 			{
 				"name" : "Lamia",
-				"link" : "https://wiki.reimagine.online/Lamia",
+				"link" : "https://wiki.smtimagine.com/Lamia",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -445,7 +445,7 @@
 			},
 			{
 				"name" : "Gorgon",
-				"link" : "https://wiki.reimagine.online/Gorgon",
+				"link" : "https://wiki.smtimagine.com/Gorgon",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -453,7 +453,7 @@
 			},
 			{
 				"name" : "Nidhoggr",
-				"link" : "https://wiki.reimagine.online/Nidhoggr",
+				"link" : "https://wiki.smtimagine.com/Nidhoggr",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -461,7 +461,7 @@
 			},
 			{
 				"name" : "Deformed Gaki",
-				"link" : "https://wiki.reimagine.online/Deformed_Gaki",
+				"link" : "https://wiki.smtimagine.com/Deformed_Gaki",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -469,7 +469,7 @@
 			},
 			{
 				"name" : "Basilisk",
-				"link" : "https://wiki.reimagine.online/Basilisk",
+				"link" : "https://wiki.smtimagine.com/Basilisk",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -477,7 +477,7 @@
 			},
 			{
 				"name" : "Frenzied Gaian",
-				"link" : "https://wiki.reimagine.online/Frenzied_Gaian",
+				"link" : "https://wiki.smtimagine.com/Frenzied_Gaian",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -485,7 +485,7 @@
 			},
 			{
 				"name" : "Denizen of the Dark Lamia",
-				"link" : "https://wiki.reimagine.online/Denizen_of_the_Dark_Lamia",
+				"link" : "https://wiki.smtimagine.com/Denizen_of_the_Dark_Lamia",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -493,7 +493,7 @@
 			},
 			{
 				"name" : "Denizen of the Dark Gorgon",
-				"link" : "https://wiki.reimagine.online/Denizen_of_the_Dark_Gorgon",
+				"link" : "https://wiki.smtimagine.com/Denizen_of_the_Dark_Gorgon",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -501,7 +501,7 @@
 			},
 			{
 				"name" : "Denizen of the Dark Nidhoggr",
-				"link" : "https://wiki.reimagine.online/Denizen_of_the_Dark_Nidhoggr",
+				"link" : "https://wiki.smtimagine.com/Denizen_of_the_Dark_Nidhoggr",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -509,7 +509,7 @@
 			},
 			{
 				"name" : "Denizen of the Dark Basilisk",
-				"link" : "https://wiki.reimagine.online/Denizen_of_the_Dark_Basilisk",
+				"link" : "https://wiki.smtimagine.com/Denizen_of_the_Dark_Basilisk",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -517,7 +517,7 @@
 			},
 			{
 				"name" : "Frenzied Gaian",
-				"link" : "https://wiki.reimagine.online/Frenzied_Gaian",
+				"link" : "https://wiki.smtimagine.com/Frenzied_Gaian",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -530,7 +530,7 @@
 		"demons": [
 			{
 				"name" : "Accomplished Cockatrice",
-				"link" : "https://wiki.reimagine.online/Accomplished_Cockatrice",
+				"link" : "https://wiki.smtimagine.com/Accomplished_Cockatrice",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -538,7 +538,7 @@
 			},
 			{
 				"name" : "Ogre",
-				"link" : "https://wiki.reimagine.online/Ogre",
+				"link" : "https://wiki.smtimagine.com/Ogre",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -546,7 +546,7 @@
 			},
 			{
 				"name" : "Oni",
-				"link" : "https://wiki.reimagine.online/Oni",
+				"link" : "https://wiki.smtimagine.com/Oni",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -554,7 +554,7 @@
 			},
 			{
 				"name" : "Accomplished Oni",
-				"link" : "https://wiki.reimagine.online/Accomplished_Oni",
+				"link" : "https://wiki.smtimagine.com/Accomplished_Oni",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -562,7 +562,7 @@
 			},
 			{
 				"name" : "Accomplished Forneus",
-				"link" : "https://wiki.reimagine.online/Accomplished_Forneus",
+				"link" : "https://wiki.smtimagine.com/Accomplished_Forneus",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -570,7 +570,7 @@
 			},
 			{
 				"name" : "Orthrus",
-				"link" : "https://wiki.reimagine.online/Orthrus",
+				"link" : "https://wiki.smtimagine.com/Orthrus",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -578,7 +578,7 @@
 			},
 			{
 				"name" : "Ubelluris",
-				"link" : "https://wiki.reimagine.online/Ubelluris",
+				"link" : "https://wiki.smtimagine.com/Ubelluris",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -586,7 +586,7 @@
 			},
 			{
 				"name" : "The Flood caller Apsaras",
-				"link" : "https://wiki.reimagine.online/The_Flood_caller_Apsaras",
+				"link" : "https://wiki.smtimagine.com/The_Flood_caller_Apsaras",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -594,7 +594,7 @@
 			},
 			{
 				"name" : "The Flood caller Isora",
-				"link" : "https://wiki.reimagine.online/The_Flood_caller_Isora",
+				"link" : "https://wiki.smtimagine.com/The_Flood_caller_Isora",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -602,7 +602,7 @@
 			},
 			{
 				"name" : "The Flood caller Tan-Ki",
-				"link" : "https://wiki.reimagine.online/The_Flood_caller_Tan-Ki",
+				"link" : "https://wiki.smtimagine.com/The_Flood_caller_Tan-Ki",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -610,7 +610,7 @@
 			},
 			{
 				"name" : "The Flood caller Azumi",
-				"link" : "https://wiki.reimagine.online/The_Flood_caller_Azumi",
+				"link" : "https://wiki.smtimagine.com/The_Flood_caller_Azumi",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -618,7 +618,7 @@
 			},
 			{
 				"name" : "The Flood caller Mizuchi",
-				"link" : "https://wiki.reimagine.online/The_Flood_caller_Mizuchi",
+				"link" : "https://wiki.smtimagine.com/The_Flood_caller_Mizuchi",
 				"startHour": 6,
 				"endHour" : 18,
 				"phases": [],
@@ -626,7 +626,7 @@
 			},
 			{
 				"name" : "Accomplished Isora",
-				"link" : "https://wiki.reimagine.online/Accomplished_Isora",
+				"link" : "https://wiki.smtimagine.com/Accomplished_Isora",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -634,7 +634,7 @@
 			},
 			{
 				"name" : "Accomplished Mizuchi",
-				"link" : "https://wiki.reimagine.online/Accomplished_Isora",
+				"link" : "https://wiki.smtimagine.com/Accomplished_Isora",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -642,7 +642,7 @@
 			},
 			{
 				"name" : "Empusa",
-				"link" : "https://wiki.reimagine.online/Empusa",
+				"link" : "https://wiki.smtimagine.com/Empusa",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -650,7 +650,7 @@
 			},
 			{
 				"name" : "Lilim",
-				"link" : "https://wiki.reimagine.online/Lilim",
+				"link" : "https://wiki.smtimagine.com/Lilim",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -658,7 +658,7 @@
 			},
 			{
 				"name" : "Incubus",
-				"link" : "https://wiki.reimagine.online/Incubus",
+				"link" : "https://wiki.smtimagine.com/Incubus",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -666,7 +666,7 @@
 			},
 			{
 				"name" : "Succubus",
-				"link" : "https://wiki.reimagine.online/Succubus",
+				"link" : "https://wiki.smtimagine.com/Succubus",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -674,7 +674,7 @@
 			},
 			{
 				"name" : "Chatterskull",
-				"link" : "https://wiki.reimagine.online/Chatterskull",
+				"link" : "https://wiki.smtimagine.com/Chatterskull",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -682,7 +682,7 @@
 			},
 			{
 				"name" : "The Flood caller Kelpy",
-				"link" : "https://wiki.reimagine.online/The_Flood_caller_Kelpy",
+				"link" : "https://wiki.smtimagine.com/The_Flood_caller_Kelpy",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -690,7 +690,7 @@
 			},
 			{
 				"name" : "The Flood caller Forneus",
-				"link" : "https://wiki.reimagine.online/The_Flood_caller_Forneus",
+				"link" : "https://wiki.smtimagine.com/The_Flood_caller_Forneus",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -698,7 +698,7 @@
 			},
 			{
 				"name" : "The Flood caller Ganga",
-				"link" : "https://wiki.reimagine.online/The_Flood_caller_Ganga",
+				"link" : "https://wiki.smtimagine.com/The_Flood_caller_Ganga",
 				"startHour": 18,
 				"endHour" : 6,
 				"phases": [],
@@ -706,7 +706,7 @@
 			},
 			{
 				"name" : "Assembled Punks",
-				"link" : "https://wiki.reimagine.online/Assembled_Punks",
+				"link" : "https://wiki.smtimagine.com/Assembled_Punks",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -714,7 +714,7 @@
 			},
 			{
 				"name" : "Assembled Punks Coward",
-				"link" : "https://wiki.reimagine.online/Assembled_Punks_Coward",
+				"link" : "https://wiki.smtimagine.com/Assembled_Punks_Coward",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -722,7 +722,7 @@
 			},
 			{
 				"name" : "Assembled Punks Leader",
-				"link" : "https://wiki.reimagine.online/Assembled_Punks_Leader",
+				"link" : "https://wiki.smtimagine.com/Assembled_Punks_Leader",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -730,7 +730,7 @@
 			},
 			{
 				"name" : "Punks",
-				"link" : "https://wiki.reimagine.online/Punks",
+				"link" : "https://wiki.smtimagine.com/Punks",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -738,7 +738,7 @@
 			},
 			{
 				"name" : "Punks Leader",
-				"link" : "https://wiki.reimagine.online/Punks_Leader",
+				"link" : "https://wiki.smtimagine.com/Punks_Leader",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
@@ -746,7 +746,7 @@
 			},
 			{
 				"name" : "Punks Coward",
-				"link" : "https://wiki.reimagine.online/Punks_Coward",
+				"link" : "https://wiki.smtimagine.com/Punks_Coward",
 				"startHour": null,
 				"endHour" : null,
 				"phases": [],
