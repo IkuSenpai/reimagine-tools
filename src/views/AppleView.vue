@@ -6,13 +6,13 @@
           <div class="columns is-vcentered">
             <div class="column is-2 has-text-centered">
               <figure class="image is-128x128 is-inline-block">
-                <img alt="ReIMAGINE logo" src="@/assets/logo.png" />
+                <img alt="SMT IMagine logo" src="@/assets/logo.png" />
               </figure>
             </div>
             <div class="column is-10">
               <!-- Left side -->
               <h1 class="title">Golden Apple Calculator</h1>
-              <p class="subtitle">For ReIMAGINE</p>
+              <p class="subtitle">For SMT IMAGINE</p>
             </div>
           </div>
         </div>
